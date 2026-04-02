@@ -65,16 +65,18 @@ Interested in open source, freelancing, and building products people depend on.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat82450-Dare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat82450-Dare&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bharat82450-Dare&theme=tokyonight" />
+</p>
 
-  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bharat82450-Dare&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharat82450-Dare&theme=tokyonight" />
 </p>
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bharat82450-Dare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bharat82450-Dare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat82450-Dare&theme=tokyo-night&hide_border=true)
 </p>
