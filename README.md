@@ -1,18 +1,100 @@
-# 💫 About Me:
-🚀 CS student building real-world software, not just assignments<br>💼 I'm currently working on a freelancing project "AI Immersive CRM for a reputed real estate firm"<br>🌍 Goal: Contribute to Open Source and be part of the developer community<br>🧑‍💻 Goal: Attract freelancing opportunities and build impactful projects<br>🏢 Goal: Get recruited into a reputed software firm as a Software Developer
+# Bharat Sarkar
+### `@Bharat82450-Dare` · Android Dev · AI Integrations · Third Year CS
 
+I build stuff that actually ships — Android apps, ML pipelines, and AI-powered systems.
+Currently deep in a production-grade AI CRM for a real estate firm.
+Interested in open source, freelancing, and building products people depend on.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bharat__13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-sarkar-6117a83ba) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bharat_82450) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharatsarkar82450@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bharat82450-Dare&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bharat82450-Dare&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat82450-Dare&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://komarev.com/ghpvc/?username=Bharat82450-Dare&color=7F52FF&style=flat&label=profile+views)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bharat82450-Dare&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+### 🏢 AI Immersive CRM — Real Estate `[In Progress · Freelance]`
+> Production Android CRM for a real estate firm. Features AI-powered document verification,
+> face recognition check-ins, real-time lead tracking, and WhatsApp automation.
+> Built on Kotlin / Jetpack Compose / Firebase with Vertex AI integration.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Face Detection](https://img.shields.io/badge/Face_Detection-E91E63?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## 📦 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[SmartPrice Insights](https://github.com/Bharat82450-Dare)** | Full-stack real estate platform with ML-based property price prediction for Bangalore. Map explorer, analytics dashboard, buy/sell listings. | Flask · Scikit-learn · XGBoost · Leaflet.js |
+| **[GeoTasks](https://github.com/Bharat82450-Dare)** | Android task reminder triggered by geofence entry. Background foreground service, Google Maps location picker, adjustable radius. | Java · Google Maps API · SQLite · FusedLocation |
+| **[Smart Weather App](https://github.com/Bharat82450-Dare)** | MVVM weather app with 7-day forecasts, AQI, UV index, auto-location, and Firebase cloud backup for last-synced data. | Java · OpenWeather API · Retrofit · Firebase |
+| **[BloodBank Management System](https://github.com/Bharat82450-Dare)** | Glassmorphic web UI over a Java REST backend. Dual-database (MySQL + SQLite), real-time dashboards, integration test suite. | Java · REST API · MySQL · SQLite |
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Backend & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+
+**ML / Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web & Tools**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat82450-Dare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat82450-Dare&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bharat82450-Dare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+![Anthropic](https://img.shields.io/badge/Anthropic_/_Skilljar-E8580A?style=flat&logo=anthropic&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys_Springboard-0066FF?style=flat&logo=infosys&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)
+![MathWorks](https://img.shields.io/badge/MathWorks_/_MATLAB-DD0000?style=flat&logo=mathworks&logoColor=white)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-sarkar-6117a83ba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_bharat__13)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bharatsarkar82450@gmail.com)
+
+---
+
+<p align="center">
+  <sub>building in public · pune, india · open to freelancing</sub>
+</p>
