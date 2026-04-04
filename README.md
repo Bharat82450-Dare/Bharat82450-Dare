@@ -29,7 +29,7 @@ Interested in open source, freelancing, and building products people depend on.
 |---|---|---|
 | **[SmartPrice Insights](https://github.com/Bharat82450-Dare/SmartPrice-Insights-Real-Estate-Platform)** | Full-stack real estate platform with ML-based property price prediction for Bangalore. Map explorer, analytics dashboard, buy/sell listings. | Flask · Scikit-learn · XGBoost · Leaflet.js |
 | **[GeoTasks](https://github.com/Bharat82450-Dare/geotasks-location-based-reminder-android)** | Android task reminder triggered by geofence entry. Background foreground service, Google Maps location picker, adjustable radius. | Java · Google Maps API · SQLite · FusedLocation |
-| **[Smart Weather App](https://github.com/Bharat82450-Dare/The-Smart-WetherApp)** | MVVM weather app with 7-day forecasts, AQI, UV index, auto-location, and Firebase cloud backup for last-synced data. | Java · OpenWeather API · Retrofit · Firebase |
+| **[Skycast Planner](https://github.com/Bharat82450-Dare/The-Smart-WetherApp)** | Planning-first weather app with saved cities, 12-hour trend charts, week-ahead insights, city comparison, AQI, alerts, and auto-location. | Kotlin · Jetpack Compose · WeatherAPI · Room · Hilt |
 | **[BloodBank Management System](https://github.com/Bharat82450-Dare/bloodvault-dual-db-inventory-system-java)** | Glassmorphic web UI over a Java REST backend. Dual-database (MySQL + SQLite), real-time dashboards, integration test suite. | Java · REST API · MySQL · SQLite |
 
 ---
