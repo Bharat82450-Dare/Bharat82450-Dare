@@ -27,6 +27,8 @@ Interested in open source, freelancing, and building products people depend on.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Ashtavinayaka ONE](https://github.com/Bharat82450-Dare/ashtavinayaka-crm-showcase)** | Native Android CRM for a real estate firm, in industrial use. Satellite plot map with booking, Gemini-based payment proof checks with an admin review queue, lead pipeline, site visits with liveness check and on-device face matching, and an in-app AI sales assistant. | Kotlin · Jetpack Compose · Firebase · Vertex AI · Hilt · Room |
+| **[RSD Nexus](https://github.com/Bharat82450-Dare/RSD_nexus-showcase)** | Real estate CRM mobile app for Radhaswami Developers, in industrial use. Lead upload from Meta ads, role-based lead assignment, in-app calling with recording and AI summary, WhatsApp tracking, and site visit scheduling with reminders. | Flutter · Firebase · Cloud Functions · FCM |
 | **[SmartPrice Insights](https://github.com/Bharat82450-Dare/SmartPrice-Insights-Real-Estate-Platform)** | Full-stack real estate platform with ML-based property price prediction for Bangalore. Map explorer, analytics dashboard, buy/sell listings. | Flask · Scikit-learn · XGBoost · Leaflet.js |
 | **[GeoTasks](https://github.com/Bharat82450-Dare/geotasks-location-based-reminder-android)** | Android task reminder triggered by geofence entry. Background foreground service, Google Maps location picker, adjustable radius. | Java · Google Maps API · SQLite · FusedLocation |
 | **[Skycast Planner](https://github.com/Bharat82450-Dare/The-Smart-WetherApp)** | Planning-first weather app with saved cities, 12-hour trend charts, week-ahead insights, city comparison, AQI, alerts, and auto-location. | Kotlin · Jetpack Compose · WeatherAPI · Room · Hilt |
